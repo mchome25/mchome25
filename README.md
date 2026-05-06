@@ -27,7 +27,7 @@ When I'm not working with data, I enjoy reading, swimming, watching anime, movie
 ## 🔭 What I'm Currently Working On 
 
 - **Project A:** Analyzing tech jobs trend (Cybersecurity vs Data Analytics) around the world in MySQL and Tableau  
-- **Project B:** Understanding video games engagement in MySQL and Tableau
+- **Project B:** Understanding individual/customer video games engagement in MySQL and Tableau
 - **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
 
 ## 🌱 Currently Learning 
