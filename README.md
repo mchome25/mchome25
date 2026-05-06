@@ -1,4 +1,4 @@
-## Hi there, I'm [Your Name] 👋
+## Hi there, I'm Mchome PrayGod 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
@@ -8,31 +8,32 @@
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="linkedin.com/in/praygod-mchome"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:praygodmchome25@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:dodipray25@icloud.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I’m a Data Analyst and Business Analyst passionate about helping businesses turn data into clear insights and better decisions. I enjoy transforming complex and messy data into simple dashboards, reports, and actionable business solutions.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+My focus is on building dashboards that people actually use, automating repetitive tasks to improve efficiency, and using data to identify trends, solve problems, and support future business planning. I work with SQL, Excel, Tableau, and Power BI to create data-driven solutions and meaningful business insights.
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+When I'm not working with data, I enjoy reading, swimming, watching anime, movies, animation, video games, nature, walk in the park. I love the "aha!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
+- **Project A:** Analyzing tech jobs trend around the world in MySQL and Tableau  
+- **Project B:** Understanding video games engament engagement in MySQL and Tableau
 - **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- Exploring data storytelling, business intelligence, and predective analytics
+- Improving my skills in SQL, Excel, Tableau, Power BI, and data-driven decision-making
 
 ## 🛠️ Technical Skillset
 
@@ -55,7 +56,7 @@ When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating c
 
 #### Business Intelligence & Analytics
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
+  <img src="https://img.shields.io/badge/A%2FB%20Testing-Intermediate-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
   <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
   <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
   <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
